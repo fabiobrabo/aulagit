@@ -1,8 +1,6 @@
 # aulagit
-Exemplo de Git  rrrrrr
-<<<<<<< HEAD
+Exemplo de Git  
+
+feito
 
 alteração
-=======
-alterar
->>>>>>> 2bea21b397b4b48c04b39b982768c9bc5cd8d01e
