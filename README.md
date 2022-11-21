@@ -1,0 +1,2 @@
+# aulagit
+Exempli de Git
