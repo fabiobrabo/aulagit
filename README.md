@@ -1,6 +1,4 @@
-# aulagit
-Exemplo de Git  
 
-feito
 
-alteração
+
+PHP É MELHOR QUE PYTHON :)
